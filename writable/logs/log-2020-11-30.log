@@ -1,0 +1,9 @@
+CRITICAL - 2020-11-30 00:10:52 --> Invalid file: cabeceraPrincipaAl.php
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('cabeceraPrincip...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('cabeceraPrincip...', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(216): view('cabeceraPrincip...')
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->noticiasAA()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}

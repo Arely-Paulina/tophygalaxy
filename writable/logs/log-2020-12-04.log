@@ -1,0 +1,234 @@
+CRITICAL - 2020-12-04 21:07:22 --> syntax error, unexpected '<'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('usuario', Array, true)
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(20): view('usuario')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->usuarios()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-04 21:11:11 --> syntax error, unexpected '<'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('usuario', Array, true)
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(20): view('usuario')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->usuarios()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-04 21:14:03 --> syntax error, unexpected '<'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('usuario', Array, true)
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(24): view('usuario')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->usuarios()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-04 21:14:06 --> syntax error, unexpected '<'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('usuario', Array, true)
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(24): view('usuario')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->usuarios()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-04 21:14:12 --> syntax error, unexpected '<'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('usuario', Array, true)
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(24): view('usuario')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->usuarios()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-04 21:34:55 --> syntax error, unexpected 'flexor' (T_STRING), expecting ';' or ','
+#0 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('usuario', Array, true)
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(24): view('usuario')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->usuarios()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-04 22:32:54 --> syntax error, unexpected ''correoElectronico'' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/regist...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/regist...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-04 23:35:04 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/inicio...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/inicio...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-04 23:35:06 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/inicio...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/inicio...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-04 23:35:06 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/inicio...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/inicio...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-04 23:35:07 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/inicio...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/inicio...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-04 23:35:07 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/inicio...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/inicio...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-04 23:35:21 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/inicio...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/inicio...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-04 23:35:56 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/inicio...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/inicio...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-04 23:35:56 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/inicio...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/inicio...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-04 23:35:57 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/inicio...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/inicio...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-04 23:35:57 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/inicio...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/inicio...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-04 23:35:57 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/inicio...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/inicio...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-04 23:35:57 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/inicio...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/inicio...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-04 23:35:58 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/inicio...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/inicio...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-04 23:35:58 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/inicio...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/inicio...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-04 23:35:58 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/inicio...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/inicio...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-04 23:35:58 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/inicio...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/inicio...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-04 23:35:58 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/inicio...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/inicio...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-04 23:36:02 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/index')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/index')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-04 23:37:57 --> Call to undefined function App\Controllers\with()
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->login()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-04 23:39:05 --> Call to undefined function App\Controllers\with()
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->login()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-04 23:39:15 --> Call to undefined function App\Controllers\with()
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->login()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-04 23:40:15 --> Call to undefined function App\Controllers\with()
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->login()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-04 23:53:42 --> syntax error, unexpected 'url' (T_STRING), expecting ')'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/inicio...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/inicio...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-04 23:54:07 --> syntax error, unexpected 'url' (T_STRING), expecting ')'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/index')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/index')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-04 23:54:52 --> syntax error, unexpected 'url' (T_STRING), expecting ')'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/index')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/index')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-04 23:59:26 --> Use of undefined constant variableV - assumed 'variableV' (this will throw an Error in a future version of PHP)
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\xampp\\htdocs...', 42, Array)
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(27): App\Controllers\Proyecto->exists('roa@gmail.com', '3W@mP6BapTpGfKh')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->login()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}

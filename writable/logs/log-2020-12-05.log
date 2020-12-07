@@ -1,0 +1,1712 @@
+CRITICAL - 2020-12-05 00:01:13 --> Use of undefined constant variableV - assumed 'variableV' (this will throw an Error in a future version of PHP)
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\xampp\\htdocs...', 42, Array)
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(27): App\Controllers\Proyecto->exists('roa@gmail.com', '3W@mP6BapTpGfKh')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->login()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-05 00:01:18 --> Use of undefined constant variableV - assumed 'variableV' (this will throw an Error in a future version of PHP)
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\xampp\\htdocs...', 42, Array)
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(27): App\Controllers\Proyecto->exists('roa@gmail.com', '3W@mP6BapTpGfKh')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->login()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-05 00:01:52 --> Use of undefined constant variableV - assumed 'variableV' (this will throw an Error in a future version of PHP)
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\xampp\\htdocs...', 42, Array)
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(27): App\Controllers\Proyecto->exists('roa@gmail.com', '3W@mP6BapTpGfKh')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->login()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-05 00:05:13 --> Use of undefined constant variableV - assumed 'variableV' (this will throw an Error in a future version of PHP)
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\xampp\\htdocs...', 42, Array)
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(27): App\Controllers\Proyecto->exists('roa@gmail.com', '3W@mP6BapTpGfKh')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->login()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-05 00:12:03 --> Use of undefined constant variableV - assumed 'variableV' (this will throw an Error in a future version of PHP)
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\xampp\\htdocs...', 42, Array)
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(27): App\Controllers\Proyecto->exists('roa@gmail.com', '3W@mP6BapTpGfKh')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->login()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-05 00:13:12 --> Use of undefined constant variableV - assumed 'variableV' (this will throw an Error in a future version of PHP)
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\xampp\\htdocs...', 42, Array)
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(27): App\Controllers\Proyecto->exists('roa@gmail.com', '3W@mP6BapTpGfKh')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->login()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-05 00:17:18 --> Invalid file: inicioSesion.php
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('inicioSesion.ph...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('inicioSesion', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(34): view('inicioSesion', Array)
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->login()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-05 00:18:43 --> Invalid file: inicioSesion.php
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('inicioSesion.ph...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('inicioSesion', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(34): view('inicioSesion', Array)
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->login()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-05 00:22:58 --> Invalid file: inicioSesion.php
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('inicioSesion.ph...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('inicioSesion', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(34): view('inicioSesion', Array)
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->login()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-05 00:23:07 --> Invalid file: inicioSesion.php
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('inicioSesion.ph...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('inicioSesion', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(34): view('inicioSesion', Array)
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->login()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-05 00:23:09 --> Invalid file: inicioSesion.php
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('inicioSesion.ph...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('inicioSesion', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(34): view('inicioSesion', Array)
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->login()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-05 00:47:08 --> Call to a member function login() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->login()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 00:47:20 --> Call to a member function login() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->login()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 00:48:16 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/login')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/login')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 00:48:17 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/inicio...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/inicio...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 00:48:19 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/inicio...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/inicio...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 00:48:20 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/inicio...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/inicio...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 00:48:20 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/inicio...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/inicio...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 00:48:20 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/inicio...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/inicio...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 00:48:20 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/inicio...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/inicio...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 00:48:21 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/inicio...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/inicio...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 00:48:21 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/inicio...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/inicio...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 00:48:21 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/inicio...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/inicio...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 00:48:22 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/inicio...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/inicio...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 00:48:22 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/inicio...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/inicio...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 00:48:22 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/inicio...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/inicio...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 00:48:22 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/inicio...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/inicio...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 00:48:23 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/inicio...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/inicio...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 00:48:23 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/inicio...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/inicio...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 00:48:34 --> Call to a member function login() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->login()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 00:48:46 --> Call to a member function login() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->login()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 00:50:37 --> Call to a member function login() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->login()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 00:50:43 --> Call to a member function login() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->login()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 00:54:40 --> Call to a member function login() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->login()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 00:57:31 --> Call to a member function login() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->login()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 01:00:52 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php on line 42
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(42): view('navPrincipalA', NULL)
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editarUsuarios()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 01:01:14 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php on line 42
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(42): view('navPrincipalA', NULL)
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editarUsuarios()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 01:01:15 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php on line 42
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(42): view('navPrincipalA', NULL)
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editarUsuarios()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 01:01:31 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php on line 42
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(42): view('navPrincipalA', NULL)
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editarUsuarios()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 01:01:31 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php on line 42
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(42): view('navPrincipalA', NULL)
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editarUsuarios()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 01:01:32 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php on line 42
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(42): view('navPrincipalA', NULL)
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editarUsuarios()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 01:01:32 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php on line 42
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(42): view('navPrincipalA', NULL)
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editarUsuarios()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 01:01:48 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php on line 42
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(42): view('navPrincipalA', NULL)
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editarUsuarios()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 01:02:09 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php on line 42
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(42): view('navPrincipalA', NULL)
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editarUsuarios()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 01:02:09 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php on line 42
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(42): view('navPrincipalA', NULL)
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editarUsuarios()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 01:02:10 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php on line 42
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(42): view('navPrincipalA', NULL)
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editarUsuarios()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 01:02:10 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php on line 42
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(42): view('navPrincipalA', NULL)
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editarUsuarios()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 01:02:10 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php on line 42
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(42): view('navPrincipalA', NULL)
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editarUsuarios()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 01:02:10 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php on line 42
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(42): view('navPrincipalA', NULL)
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editarUsuarios()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 01:02:10 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php on line 42
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(42): view('navPrincipalA', NULL)
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editarUsuarios()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 01:03:15 --> Cannot redeclare App\Controllers\ProyectoA::inicioSesion()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-05 01:03:47 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php on line 42
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(42): view('navPrincipalA', NULL)
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editarUsuarios()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 01:03:48 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php on line 42
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(42): view('navPrincipalA', NULL)
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editarUsuarios()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 01:03:48 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php on line 42
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(42): view('navPrincipalA', NULL)
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editarUsuarios()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 01:03:49 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php on line 42
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(42): view('navPrincipalA', NULL)
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editarUsuarios()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 01:03:49 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php on line 42
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(42): view('navPrincipalA', NULL)
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editarUsuarios()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 01:03:49 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php on line 42
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(42): view('navPrincipalA', NULL)
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editarUsuarios()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 01:03:49 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php on line 42
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(42): view('navPrincipalA', NULL)
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editarUsuarios()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 01:03:49 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php on line 42
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(42): view('navPrincipalA', NULL)
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editarUsuarios()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 01:03:50 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php on line 42
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(42): view('navPrincipalA', NULL)
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editarUsuarios()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 01:03:50 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php on line 42
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(42): view('navPrincipalA', NULL)
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editarUsuarios()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 01:03:50 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php on line 42
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(42): view('navPrincipalA', NULL)
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editarUsuarios()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 01:03:50 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php on line 42
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(42): view('navPrincipalA', NULL)
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editarUsuarios()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 01:03:50 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php on line 42
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(42): view('navPrincipalA', NULL)
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editarUsuarios()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 01:03:51 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php on line 42
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(42): view('navPrincipalA', NULL)
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editarUsuarios()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 01:03:51 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php on line 42
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(42): view('navPrincipalA', NULL)
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editarUsuarios()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 01:03:51 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php on line 42
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(42): view('navPrincipalA', NULL)
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editarUsuarios()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 01:03:53 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php on line 42
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(42): view('navPrincipalA', NULL)
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editarUsuarios()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 01:04:54 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\framework-4.0.4\app\Views\usuario.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 12, Array)
+#1 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('usuario', Array, true)
+#3 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(42): view('usuario')
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editarUsuarios()
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#6 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-05 02:22:27 --> syntax error, unexpected '$nickname' (T_VARIABLE), expecting ';' or ','
+#0 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('editar', Array, true)
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(47): view('editar', Array)
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-05 02:26:37 --> Call to undefined function form_input()
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('editar', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(47): view('editar', Array)
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-05 02:26:42 --> Call to undefined function form_input()
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('editar', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(47): view('editar', Array)
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-05 02:27:31 --> Call to undefined function form_input()
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('editar', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(47): view('editar', Array)
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-05 02:27:32 --> Call to undefined function form_input()
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('editar', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(47): view('editar', Array)
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-05 02:27:34 --> Call to undefined function form_input()
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('editar', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(47): view('editar', Array)
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-05 02:28:48 --> Call to undefined function form_input()
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('editar', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(47): view('editar', Array)
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-05 02:28:49 --> Call to undefined function form_input()
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('editar', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(47): view('editar', Array)
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-05 02:28:49 --> Call to undefined function form_input()
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('editar', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(47): view('editar', Array)
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-05 02:28:51 --> Call to undefined function form_input()
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('editar', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(47): view('editar', Array)
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-05 02:30:55 --> syntax error, unexpected '$nickname' (T_VARIABLE), expecting ';' or ','
+#0 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('editar', Array, true)
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(47): view('editar', Array)
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-05 02:30:56 --> syntax error, unexpected '$nickname' (T_VARIABLE), expecting ';' or ','
+#0 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('editar', Array, true)
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(47): view('editar', Array)
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-05 02:32:18 --> syntax error, unexpected '$nickname' (T_VARIABLE), expecting ';' or ','
+#0 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('editar', Array, true)
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(47): view('editar', Array)
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-05 02:36:12 --> syntax error, unexpected '' required="">' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ','
+#0 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('editar', Array, true)
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(47): view('editar', Array)
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-05 02:43:30 --> syntax error, unexpected '' required="">' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ','
+#0 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('editar', Array, true)
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(47): view('editar', Array)
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-05 02:48:54 --> syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ','
+#0 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('editar', Array, true)
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(47): view('editar', Array)
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-05 02:49:19 --> syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ','
+#0 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('editar', Array, true)
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(47): view('editar', Array)
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-05 03:28:23 --> There is no data to update.
+#0 C:\xampp\htdocs\framework-4.0.4\system\Model.php(834): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(54): CodeIgniter\Model->update(Array)
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->guardar()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-05 03:34:02 --> Call to undefined function form_hidden()
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('editar', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(69): view('editar', Array)
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-05 03:34:06 --> Call to undefined function form_hidden()
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('editar', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(69): view('editar', Array)
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-05 11:27:55 --> syntax error, unexpected ';'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/index')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/index')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 11:28:40 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/index')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/index')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 11:28:53 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/index')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/index')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 11:28:54 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/index')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/index')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 11:28:55 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/index')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/index')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 11:28:55 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/index')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/index')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 11:28:55 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/index')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/index')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 11:28:55 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/index')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/index')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 11:28:56 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/index')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/index')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 11:29:03 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/index')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/index')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 11:29:03 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/index')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/index')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 11:29:08 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/index')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/index')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 11:29:08 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/index')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/index')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 11:32:11 --> syntax error, unexpected ';'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/index')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/index')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 11:32:45 --> syntax error, unexpected ';'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/index')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/index')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 11:43:08 --> syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/index')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/index')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 12:00:12 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/index')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/index')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 12:01:36 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/index')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/index')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 12:02:33 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/index')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/index')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 12:02:34 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/index')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/index')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 12:02:34 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/index')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/index')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 12:02:34 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/index')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/index')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 12:02:34 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/index')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/index')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 12:02:35 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/index')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/index')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 12:03:51 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/index')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/index')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 12:03:51 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/index')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/index')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 12:03:51 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/index')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/index')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 12:03:52 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/index')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/index')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 12:03:52 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/index')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/index')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 12:03:52 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/index')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/index')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 12:54:51 --> syntax error, unexpected '}', expecting end of file
+#0 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('usuario', Array, true)
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(39): view('usuario')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->usuarios()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-05 13:20:05 --> Class 'App\Controllers\personaModel' not found
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->borrar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 13:29:52 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php on line 98
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(98): view('navPrincipalA', NULL)
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->borrar()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 13:31:05 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\framework-4.0.4\app\Views\usuario.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 13, Array)
+#1 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('usuario', Array, true)
+#3 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(98): view('usuario')
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->borrar()
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#6 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-05 13:31:11 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\framework-4.0.4\app\Views\usuario.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 13, Array)
+#1 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('usuario', Array, true)
+#3 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(98): view('usuario')
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->borrar()
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#6 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-05 14:09:38 --> Argument 1 passed to CodeIgniter\Images\Handlers\BaseHandler::withFile() must be of the type string, null given, called in C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php on line 105
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(105): CodeIgniter\Images\Handlers\BaseHandler->withFile(NULL)
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 14:09:57 --> Argument 1 passed to CodeIgniter\Images\Handlers\BaseHandler::withFile() must be of the type string, null given, called in C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php on line 105
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(105): CodeIgniter\Images\Handlers\BaseHandler->withFile(NULL)
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 14:10:00 --> Argument 1 passed to CodeIgniter\Images\Handlers\BaseHandler::withFile() must be of the type string, null given, called in C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php on line 105
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(105): CodeIgniter\Images\Handlers\BaseHandler->withFile(NULL)
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 15:11:47 --> Call to a member function library() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 15:19:00 --> Call to a member function library() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 15:45:12 --> Call to a member function getName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 15:45:14 --> Call to a member function getName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 15:45:14 --> Call to a member function getName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 15:45:14 --> Call to a member function getName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 15:45:15 --> Call to a member function getName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 15:45:15 --> Call to a member function getName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 15:45:15 --> Call to a member function getName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 15:45:15 --> Call to a member function getName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 15:45:15 --> Call to a member function getName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 15:45:16 --> Call to a member function getName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 15:45:16 --> Call to a member function getName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 15:45:16 --> Call to a member function getName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 15:45:16 --> Call to a member function getName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 15:45:16 --> Call to a member function getName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 15:45:16 --> Call to a member function getName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 15:45:17 --> Call to a member function getName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 15:45:17 --> Call to a member function getName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 15:45:31 --> Call to a member function getName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 15:45:32 --> Call to a member function getName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 15:45:32 --> Call to a member function getName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 15:45:32 --> Call to a member function getName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 15:47:05 --> Call to a member function getName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 15:47:48 --> Call to a member function getName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 15:47:48 --> Call to a member function getName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 15:48:52 --> Call to a member function getName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 15:48:53 --> Call to a member function getName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 15:48:53 --> Call to a member function getName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 15:48:53 --> Call to a member function getName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 15:48:54 --> Call to a member function getName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 15:48:54 --> Call to a member function getName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 15:48:54 --> Call to a member function getName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 15:48:54 --> Call to a member function getName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 15:48:54 --> Call to a member function getName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 15:48:55 --> Call to a member function getName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 15:57:36 --> Call to a member function getName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 15:57:37 --> Call to a member function getName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 15:57:38 --> Call to a member function getName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 15:57:38 --> Call to a member function getName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 15:57:48 --> Call to a member function getName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 15:57:49 --> Call to a member function getName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 15:57:49 --> Call to a member function getName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 15:57:50 --> Call to a member function getName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 16:00:18 --> Call to a member function getName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 16:00:57 --> Call to a member function getTempName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 16:00:57 --> Call to a member function getTempName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 16:00:58 --> Call to a member function getTempName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 16:00:58 --> Call to a member function getTempName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 16:00:58 --> Call to a member function getTempName() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 16:07:22 --> Call to a member function move() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 16:07:23 --> Call to a member function move() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 16:07:38 --> Call to a member function move() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 16:07:39 --> Call to a member function move() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 16:07:40 --> Call to a member function move() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 16:07:40 --> Call to a member function move() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 16:07:40 --> Call to a member function move() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 16:08:47 --> The original file is not a valid file.
+#0 C:\xampp\htdocs\framework-4.0.4\system\HTTP\Files\UploadedFile.php(172): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(102): CodeIgniter\HTTP\Files\UploadedFile->move('./imagenes')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->subir()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-05 16:10:02 --> The original file is not a valid file.
+#0 C:\xampp\htdocs\framework-4.0.4\system\HTTP\Files\UploadedFile.php(172): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(103): CodeIgniter\HTTP\Files\UploadedFile->move('./imagenes')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->subir()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-05 16:12:34 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/subir')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/subir')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 16:12:38 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/edita...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/edita...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 16:12:40 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/edita...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/edita...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 16:12:40 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/edita...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/edita...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 16:12:40 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/edita...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/edita...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 16:12:41 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/edita...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/edita...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 16:12:41 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/edita...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/edita...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 16:12:41 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/edita...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/edita...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 16:12:41 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/edita...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/edita...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 16:12:41 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/edita...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/edita...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 16:17:26 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/subir')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/subir')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 16:20:58 --> Call to undefined function App\Controllers\subir()
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 16:21:00 --> Call to undefined function App\Controllers\subir()
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 16:21:01 --> Call to undefined function App\Controllers\subir()
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 16:21:01 --> Call to undefined function App\Controllers\subir()
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 16:21:01 --> Call to undefined function App\Controllers\subir()
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 16:21:01 --> Call to undefined function App\Controllers\subir()
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->editar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 16:40:53 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php on line 97
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(97): view('navPrincipalA', NULL)
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->borrar()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 16:58:57 --> Call to a member function move() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->guardar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 17:32:39 --> syntax error, unexpected 'imagen' (T_STRING)
+#0 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('usuario', Array, true)
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(39): view('usuario')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->usuarios()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-05 17:55:24 --> syntax error, unexpected 'class' (T_CLASS), expecting ';' or ','
+#0 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('usuario', Array, true)
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(39): view('usuario')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->usuarios()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-05 17:56:39 --> syntax error, unexpected 'class' (T_CLASS), expecting ';' or ','
+#0 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('usuario', Array, true)
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(39): view('usuario')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->usuarios()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-05 17:56:40 --> syntax error, unexpected 'class' (T_CLASS), expecting ';' or ','
+#0 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('usuario', Array, true)
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(39): view('usuario')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->usuarios()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-05 17:56:43 --> syntax error, unexpected 'class' (T_CLASS), expecting ';' or ','
+#0 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('usuario', Array, true)
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(39): view('usuario')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->usuarios()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-05 18:35:56 --> syntax error, unexpected '">' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ','
+#0 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('comentarios', Array, true)
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(65): view('comentarios')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->n1V()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-05 18:36:00 --> syntax error, unexpected '">' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ','
+#0 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('comentarios', Array, true)
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(65): view('comentarios')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->n1V()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-05 19:13:03 --> syntax error, unexpected 'session' (T_STRING), expecting ';' or ','
+#0 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('perfil', Array, true)
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(132): view('perfil', Array)
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->perfil()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-05 20:01:14 --> Invalid file: nav.php
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('nav.php')
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('nav', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(27): view('nav')
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->perfil()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-05 20:12:25 --> Call to a member function update() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->actualizar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 20:12:54 --> Call to a member function update() on null
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->actualizar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 20:14:29 --> Class 'App\Controllers\personaModel' not found
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->actualizar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 20:14:34 --> Class 'App\Controllers\personaModel' not found
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->actualizar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 20:16:53 --> Class 'App\Controllers\personaModel' not found
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->actualizar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 20:18:30 --> Class 'App\Controllers\personaModel' not found
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->actualizar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 20:19:53 --> Class 'App\Controllers\personaModel' not found
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->actualizar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 20:21:39 --> Class 'App\Controllers\personaModel' not found
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->actualizar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 20:21:53 --> Class 'App\Controllers\personaModel' not found
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->actualizar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-05 20:32:05 --> syntax error, unexpected ''</h1>'' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ','
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/salir')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/salir')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 20:32:32 --> syntax error, unexpected ''</h1>'' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ','
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/salir')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/salir')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 20:32:33 --> syntax error, unexpected ''</h1>'' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ','
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/salir')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/salir')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 20:32:38 --> syntax error, unexpected ''</h1>'' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ','
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/perfil')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/perfil')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 20:32:39 --> syntax error, unexpected ''</h1>'' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ','
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/index')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/index')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 23:35:23 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/public...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/public...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 23:36:14 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/public...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/public...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 23:36:15 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/public...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/public...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 23:36:15 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/public...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/public...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 23:36:16 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/r2V')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/r2V')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 23:36:18 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/r2V')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/r2V')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 23:36:18 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/r2V')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/r2V')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 23:36:18 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/r2V')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/r2V')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 23:36:18 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/r2V')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/r2V')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 23:37:39 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/r2V')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/r2V')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 23:39:16 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/r2V')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/r2V')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 23:39:45 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/r2V')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/r2V')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 23:40:31 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/r2V')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/r2V')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 23:40:59 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/r2V')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/r2V')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 23:40:59 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/r2V')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/r2V')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 23:41:12 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/r2V')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/r2V')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 23:41:12 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/r2V')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/r2V')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 23:42:15 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/r2V')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/r2V')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-05 23:44:01 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/r2V')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/r2V')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}

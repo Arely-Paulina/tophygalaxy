@@ -1,0 +1,186 @@
+CRITICAL - 2020-11-29 01:22:39 --> Invalid file: sectionU.php
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('sectionU.php')
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('sectionU', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(7): view('sectionU')
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->index()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-11-29 01:42:14 --> syntax error, unexpected '" class="' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ','
+#0 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('cabeceraU', Array, true)
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(7): view('cabeceraU')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->index()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-29 01:42:16 --> syntax error, unexpected '" class="' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ','
+#0 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('cabeceraU', Array, true)
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(7): view('cabeceraU')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->index()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-29 01:42:17 --> syntax error, unexpected '" class="' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ','
+#0 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('cabeceraU', Array, true)
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(7): view('cabeceraU')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->index()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-29 01:43:17 --> syntax error, unexpected '" class="' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ','
+#0 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('cabeceraU', Array, true)
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(7): view('cabeceraU')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->index()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-29 01:45:08 --> syntax error, unexpected '" class="' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ','
+#0 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('cabeceraU', Array, true)
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(7): view('cabeceraU')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->index()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-29 01:45:10 --> syntax error, unexpected '" class="' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ','
+#0 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('cabeceraU', Array, true)
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(7): view('cabeceraU')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->index()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-29 02:11:39 --> Invalid file: cuerpoRegistro.php
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('cuerpoRegistro....')
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('cuerpoRegistro', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(16): view('cuerpoRegistro')
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->registro()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-11-29 13:35:03 --> Invalid file: navVR.php
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('navVR.php')
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('navVR', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(38): view('navVR')
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->reseñasV()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-11-29 13:42:36 --> Invalid file: contenidoR1V.php
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('contenidoR1V.ph...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('contenidoR1V', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(46): view('contenidoR1V')
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->r1V()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-11-29 13:42:43 --> Invalid file: contenidoR1V.php
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('contenidoR1V.ph...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('contenidoR1V', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(46): view('contenidoR1V')
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->r1V()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-11-29 14:10:37 --> Invalid file: contenidoA1V.php
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('contenidoA1V.ph...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('contenidoA1V', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(59): view('contenidoA1V')
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->a1V()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-11-29 14:48:09 --> Cannot redeclare App\Controllers\Proyecto::a1V()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-11-29 14:48:18 --> Cannot redeclare App\Controllers\Proyecto::a1V()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-11-29 14:48:21 --> Cannot redeclare App\Controllers\Proyecto::a1V()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-11-29 14:48:24 --> Cannot redeclare App\Controllers\Proyecto::a1V()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-11-29 14:48:25 --> Cannot redeclare App\Controllers\Proyecto::a1V()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-11-29 14:48:52 --> Cannot redeclare App\Controllers\Proyecto::a1V()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-11-29 14:48:53 --> Cannot redeclare App\Controllers\Proyecto::a1V()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-11-29 14:48:57 --> Cannot redeclare App\Controllers\Proyecto::a1V()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-11-29 14:48:58 --> Cannot redeclare App\Controllers\Proyecto::a1V()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-11-29 14:48:58 --> Cannot redeclare App\Controllers\Proyecto::a1V()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-11-29 14:48:58 --> Cannot redeclare App\Controllers\Proyecto::a1V()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-11-29 14:48:58 --> Cannot redeclare App\Controllers\Proyecto::a1V()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-11-29 14:49:53 --> Cannot redeclare App\Controllers\Proyecto::a1V()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-11-29 16:09:37 --> Invalid file: contenidoC1T.php
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('contenidoC1T.ph...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('contenidoC1T', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(119): view('contenidoC1T')
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->r1C()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-11-29 21:48:06 --> Invalid file: contenidoN1TA.php
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('contenidoN1TA.p...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('contenidoN1TA', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(75): view('contenidoN1TA')
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->n1TA()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-11-29 21:48:39 --> Invalid file: contenidoN1TA.php
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('contenidoN1TA.p...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('contenidoN1TA', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(75): view('contenidoN1TA')
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->n1TA()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-11-29 21:48:43 --> Invalid file: contenidoN1TA.php
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('contenidoN1TA.p...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('contenidoN1TA', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(75): view('contenidoN1TA')
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->n1TA()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-11-29 21:49:55 --> Invalid file: contenidoN2TA.php
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('contenidoN2TA.p...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('contenidoN2TA', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(78): view('contenidoN2TA')
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->n2TA()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}

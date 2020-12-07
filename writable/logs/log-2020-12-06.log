@@ -1,0 +1,1361 @@
+CRITICAL - 2020-12-06 02:00:00 --> Cannot use object of type mysqli as array
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('contenidoRV', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(159): view('contenidoRV')
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->reseñasV()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-06 02:10:32 --> Cannot use object of type mysqli as array
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('contenidoRV', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(160): view('contenidoRV')
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->reseñasV()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-06 02:10:34 --> Cannot use object of type mysqli as array
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('contenidoRV', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(160): view('contenidoRV')
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->reseñasV()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-06 02:10:34 --> Cannot use object of type mysqli as array
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('contenidoRV', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(160): view('contenidoRV')
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->reseñasV()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-06 02:10:35 --> Cannot use object of type mysqli as array
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('contenidoRV', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(160): view('contenidoRV')
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->reseñasV()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-06 02:10:35 --> Cannot use object of type mysqli as array
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('contenidoRV', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(160): view('contenidoRV')
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->reseñasV()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-06 02:13:36 --> Cannot use object of type mysqli as array
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('contenidoRV', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(160): view('contenidoRV')
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->reseñasV()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-06 02:13:37 --> Cannot use object of type mysqli as array
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('contenidoRV', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(160): view('contenidoRV')
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->reseñasV()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-06 02:13:38 --> Cannot use object of type mysqli as array
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('contenidoRV', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(160): view('contenidoRV')
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->reseñasV()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-06 02:13:38 --> Cannot use object of type mysqli as array
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('contenidoRV', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(160): view('contenidoRV')
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->reseñasV()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-06 02:13:38 --> Cannot use object of type mysqli as array
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('contenidoRV', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(160): view('contenidoRV')
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->reseñasV()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-06 02:13:39 --> Cannot use object of type mysqli as array
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('contenidoRV', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(160): view('contenidoRV')
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->reseñasV()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-06 02:13:39 --> Cannot use object of type mysqli as array
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('contenidoRV', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(160): view('contenidoRV')
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->reseñasV()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-06 02:13:39 --> Cannot use object of type mysqli as array
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('contenidoRV', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(160): view('contenidoRV')
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->reseñasV()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-06 02:13:39 --> Cannot use object of type mysqli as array
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('contenidoRV', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(160): view('contenidoRV')
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->reseñasV()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-06 02:13:40 --> Cannot use object of type mysqli as array
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('contenidoRV', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(160): view('contenidoRV')
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->reseñasV()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-06 11:02:05 --> Call to a member function query() on null
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(157): App\Models\publicacionModel->consulta()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->reseñasV()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 11:03:10 --> Call to a member function query() on null
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(157): App\Models\publicacionModel->consulta()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->reseñasV()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 11:03:10 --> Call to a member function query() on null
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(157): App\Models\publicacionModel->consulta()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->reseñasV()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 11:03:11 --> Call to a member function query() on null
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(157): App\Models\publicacionModel->consulta()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->reseñasV()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 11:03:11 --> Call to a member function query() on null
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(157): App\Models\publicacionModel->consulta()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->reseñasV()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 11:03:11 --> Call to a member function query() on null
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(157): App\Models\publicacionModel->consulta()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->reseñasV()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 11:03:11 --> Call to a member function query() on null
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(157): App\Models\publicacionModel->consulta()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->reseñasV()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 11:03:11 --> Call to a member function query() on null
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(157): App\Models\publicacionModel->consulta()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->reseñasV()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 11:03:12 --> Call to a member function query() on null
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(157): App\Models\publicacionModel->consulta()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->reseñasV()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 11:03:12 --> Call to a member function query() on null
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(157): App\Models\publicacionModel->consulta()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->reseñasV()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 11:03:12 --> Call to a member function query() on null
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(157): App\Models\publicacionModel->consulta()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->reseñasV()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 11:03:12 --> Call to a member function query() on null
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(157): App\Models\publicacionModel->consulta()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->reseñasV()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 11:56:27 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\framework-4.0.4\app\Views\contenidoNV.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 76, Array)
+#1 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('contenidoNV', Array, true)
+#3 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(134): view('contenidoNV')
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->noticiasV()
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#6 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-06 12:38:12 --> Cannot redeclare App\Controllers\ProyectoA::publicacionA()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-06 12:38:18 --> Cannot redeclare App\Controllers\ProyectoA::publicacionA()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-06 12:39:04 --> Cannot redeclare App\Controllers\ProyectoA::publicacionA()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-06 12:39:05 --> Cannot redeclare App\Controllers\ProyectoA::publicacionA()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-06 12:39:05 --> Cannot redeclare App\Controllers\ProyectoA::publicacionA()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-06 12:39:05 --> Cannot redeclare App\Controllers\ProyectoA::publicacionA()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-06 12:39:05 --> Cannot redeclare App\Controllers\ProyectoA::publicacionA()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-06 12:39:05 --> Cannot redeclare App\Controllers\ProyectoA::publicacionA()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-06 12:39:06 --> Cannot redeclare App\Controllers\ProyectoA::publicacionA()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-06 12:39:06 --> Cannot redeclare App\Controllers\ProyectoA::publicacionA()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-06 12:39:06 --> Cannot redeclare App\Controllers\ProyectoA::publicacionA()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-06 12:39:06 --> Cannot redeclare App\Controllers\ProyectoA::publicacionA()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-06 12:39:06 --> Cannot redeclare App\Controllers\ProyectoA::publicacionA()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-06 12:39:07 --> Cannot redeclare App\Controllers\ProyectoA::publicacionA()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-06 12:39:07 --> Cannot redeclare App\Controllers\ProyectoA::publicacionA()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-06 12:39:07 --> Cannot redeclare App\Controllers\ProyectoA::publicacionA()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-06 12:39:07 --> Cannot redeclare App\Controllers\ProyectoA::publicacionA()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-06 12:39:07 --> Cannot redeclare App\Controllers\ProyectoA::publicacionA()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-06 12:39:07 --> Cannot redeclare App\Controllers\ProyectoA::publicacionA()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-06 12:39:08 --> Cannot redeclare App\Controllers\ProyectoA::publicacionA()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-06 12:39:56 --> Cannot redeclare App\Controllers\ProyectoA::publicacionA()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-06 12:39:56 --> Cannot redeclare App\Controllers\ProyectoA::publicacionA()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-06 12:39:57 --> Cannot redeclare App\Controllers\ProyectoA::publicacionA()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-06 12:39:57 --> Cannot redeclare App\Controllers\ProyectoA::publicacionA()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-06 12:39:57 --> Cannot redeclare App\Controllers\ProyectoA::publicacionA()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-06 12:39:57 --> Cannot redeclare App\Controllers\ProyectoA::publicacionA()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-06 12:39:57 --> Cannot redeclare App\Controllers\ProyectoA::publicacionA()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-06 12:39:58 --> Cannot redeclare App\Controllers\ProyectoA::publicacionA()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-06 12:39:58 --> Cannot redeclare App\Controllers\ProyectoA::publicacionA()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-06 12:39:58 --> Cannot redeclare App\Controllers\ProyectoA::publicacionA()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-06 12:39:58 --> Cannot redeclare App\Controllers\ProyectoA::publicacionA()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-06 12:39:58 --> Cannot redeclare App\Controllers\ProyectoA::publicacionA()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-06 12:39:59 --> Cannot redeclare App\Controllers\ProyectoA::publicacionA()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-06 12:39:59 --> Cannot redeclare App\Controllers\ProyectoA::publicacionA()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-06 12:39:59 --> Cannot redeclare App\Controllers\ProyectoA::publicacionA()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-06 12:39:59 --> Cannot redeclare App\Controllers\ProyectoA::publicacionA()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-06 12:39:59 --> Cannot redeclare App\Controllers\ProyectoA::publicacionA()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-06 12:40:00 --> Cannot redeclare App\Controllers\ProyectoA::publicacionA()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-06 12:40:02 --> Cannot redeclare App\Controllers\ProyectoA::publicacionA()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-06 12:40:02 --> Cannot redeclare App\Controllers\ProyectoA::publicacionA()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-06 12:40:03 --> Cannot redeclare App\Controllers\ProyectoA::publicacionA()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-06 12:40:03 --> Cannot redeclare App\Controllers\ProyectoA::publicacionA()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-06 12:40:25 --> Cannot redeclare App\Controllers\ProyectoA::publicacionA()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-06 12:40:25 --> Cannot redeclare App\Controllers\ProyectoA::publicacionA()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-06 12:45:32 --> Class 'App\Controllers\publicacionModel' not found
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->publicar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-06 12:47:57 --> Class 'App\Controllers\publicacionModel' not found
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->publicar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-06 12:48:39 --> Class 'App\Controllers\publicacionModel' not found
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->publicar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-06 12:58:48 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 12:58:51 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 12:58:52 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 12:58:52 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 12:58:52 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 12:58:53 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/artic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/artic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 12:59:03 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/artic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/artic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 12:59:04 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 12:59:05 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 12:59:05 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 12:59:05 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 12:59:05 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 12:59:06 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 12:59:06 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 12:59:40 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 12:59:41 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 12:59:41 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 12:59:41 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 12:59:41 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 12:59:41 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 12:59:42 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 12:59:42 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 12:59:42 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 12:59:42 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 12:59:43 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 12:59:43 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 12:59:43 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 12:59:59 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 13:00:00 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 13:00:00 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 13:00:00 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 13:00:01 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 13:00:01 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 13:00:01 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 13:00:01 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 13:00:01 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 13:00:02 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 13:00:02 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 13:00:02 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 13:00:02 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 13:00:02 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 13:00:14 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 13:00:14 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 13:00:15 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 13:00:22 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 13:00:22 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 13:00:22 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 13:00:22 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 13:00:23 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 13:00:23 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 13:00:23 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 13:00:23 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 13:00:36 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 13:00:37 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 13:00:37 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 13:00:37 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/notic...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/notic...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 13:08:44 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\framework-4.0.4\app\Views\contenidoNVA.php(101): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 101, Array)
+#1 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('contenidoNVA', Array, true)
+#3 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(160): view('contenidoNVA')
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->publicar()
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#6 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-06 13:09:56 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php on line 160
+#0 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(160): view('navPrincipalA', NULL)
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->publicar()
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 13:13:19 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\framework-4.0.4\app\Views\contenidoNVA.php(101): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 101, Array)
+#1 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('contenidoNVA', Array, true)
+#3 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(160): view('contenidoNVA')
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->publicar()
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#6 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-06 13:14:13 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\framework-4.0.4\app\Views\contenidoNVA.php(101): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 101, Array)
+#1 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('contenidoNVA', Array, true)
+#3 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(160): view('contenidoNVA')
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->publicar()
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#6 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-06 13:14:52 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\framework-4.0.4\app\Views\contenidoNVA.php(101): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 101, Array)
+#1 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('contenidoNVA', Array, true)
+#3 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(134): view('contenidoNVA')
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->publicar()
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#6 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-06 13:14:55 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\framework-4.0.4\app\Views\contenidoNVA.php(101): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 101, Array)
+#1 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('contenidoNVA', Array, true)
+#3 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyectoA.php(134): view('contenidoNVA')
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->publicar()
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#6 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-06 13:15:42 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\framework-4.0.4\app\Views\contenidoNV.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 76, Array)
+#1 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('contenidoNV', Array, true)
+#3 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(86): view('contenidoNV')
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->publicar()
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#6 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-06 15:58:14 --> syntax error, unexpected '$titulo' (T_VARIABLE), expecting ')'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/buscar')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/buscar')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 16:23:36 --> Invalid file: ver.php
+#0 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('ver.php')
+#1 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('ver', Array, true)
+#2 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(139): view('ver')
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->ver()
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-06 16:27:40 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\framework-4.0.4\app\Views\ver.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 1, Array)
+#1 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('ver', Array, true)
+#3 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(139): view('ver')
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->ver()
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#6 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-06 16:32:41 --> syntax error, unexpected ''</h1>;' (T_ENCAPSED_AND_WHITESPACE)
+#0 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('ver', Array, true)
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(143): view('ver')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->ver()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-06 18:54:24 --> syntax error, unexpected '=', expecting ']'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/edita...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/edita...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 18:54:27 --> syntax error, unexpected '=', expecting ']'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/edita...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/edita...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 18:54:56 --> syntax error, unexpected '=', expecting ']'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/edita...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/edita...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 18:54:57 --> syntax error, unexpected '=', expecting ']'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/edita...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/edita...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 18:55:14 --> syntax error, unexpected '=', expecting ']'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/edita...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/edita...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 18:55:15 --> syntax error, unexpected '=', expecting ']'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/edita...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/edita...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 18:56:19 --> syntax error, unexpected '=', expecting ']'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/edita...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/edita...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 18:59:42 --> syntax error, unexpected '=', expecting ']'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/edita...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/edita...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 18:59:49 --> syntax error, unexpected '=', expecting ']'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/edita...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/edita...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 18:59:50 --> syntax error, unexpected '=', expecting ']'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/edita...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/edita...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 19:00:07 --> syntax error, unexpected '=', expecting ']'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/edita...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/edita...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 19:00:08 --> syntax error, unexpected '=', expecting ']'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/edita...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/edita...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 19:00:27 --> syntax error, unexpected '=', expecting ']'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/edita...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/edita...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 19:01:28 --> syntax error, unexpected '=', expecting ']'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/edita...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/edita...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 19:01:51 --> syntax error, unexpected '=', expecting ']'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/edita...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/edita...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 19:03:42 --> syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/edita...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/edita...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 19:03:54 --> syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/edita...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/edita...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 19:03:55 --> syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('ProyectoA/edita...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('ProyectoA/edita...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 19:25:50 --> Object of class DateTime could not be converted to string
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->inicioSesion()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-06 19:26:08 --> Object of class DateTime could not be converted to string
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->inicioSesion()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-06 19:26:09 --> Object of class DateTime could not be converted to string
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->inicioSesion()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-06 19:26:09 --> Object of class DateTime could not be converted to string
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->inicioSesion()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-06 19:26:09 --> Object of class DateTime could not be converted to string
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->inicioSesion()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-06 19:26:46 --> Object of class DateTime could not be converted to string
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->inicioSesion()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-06 19:26:47 --> Object of class DateTime could not be converted to string
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->inicioSesion()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-06 19:26:48 --> Object of class DateTime could not be converted to string
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->inicioSesion()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-06 19:26:48 --> Object of class DateTime could not be converted to string
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->inicioSesion()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-06 19:27:48 --> Object of class DateTime could not be converted to string
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->inicioSesion()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-06 19:52:08 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\framework-4.0.4\app\Views\comentarios.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 14, Array)
+#1 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('comentarios', Array, true)
+#3 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(257): view('comentarios')
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->n1C()
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#6 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-06 19:52:17 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\framework-4.0.4\app\Views\comentarios.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 14, Array)
+#1 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('comentarios', Array, true)
+#3 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(260): view('comentarios')
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->n2C()
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#6 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-06 19:52:43 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\framework-4.0.4\app\Views\comentarios.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 14, Array)
+#1 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('comentarios', Array, true)
+#3 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(285): view('comentarios')
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->a1C()
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#6 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-06 19:52:50 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\framework-4.0.4\app\Views\comentarios.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 14, Array)
+#1 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('comentarios', Array, true)
+#3 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(288): view('comentarios')
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->a2C()
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#6 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-06 19:52:54 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\framework-4.0.4\app\Views\comentarios.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 14, Array)
+#1 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('comentarios', Array, true)
+#3 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(291): view('comentarios')
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->a3C()
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#6 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-06 19:53:00 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\framework-4.0.4\app\Views\comentarios.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 14, Array)
+#1 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('comentarios', Array, true)
+#3 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(299): view('comentarios')
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->n1P()
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#6 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-06 19:53:36 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\framework-4.0.4\app\Views\comentarios.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 14, Array)
+#1 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('comentarios', Array, true)
+#3 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(162): view('comentarios')
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->n1V()
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#6 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-06 19:54:35 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\framework-4.0.4\app\Views\comentarios.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 14, Array)
+#1 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('comentarios', Array, true)
+#3 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(162): view('comentarios')
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->n1V()
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#6 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-06 19:55:38 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\framework-4.0.4\app\Views\comentarios.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 14, Array)
+#1 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('comentarios', Array, true)
+#3 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(162): view('comentarios')
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->n1V()
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#6 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-06 19:55:38 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\framework-4.0.4\app\Views\comentarios.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 14, Array)
+#1 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('comentarios', Array, true)
+#3 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(162): view('comentarios')
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->n1V()
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#6 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-06 19:55:39 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\framework-4.0.4\app\Views\comentarios.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 14, Array)
+#1 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('comentarios', Array, true)
+#3 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(162): view('comentarios')
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->n1V()
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#6 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-06 19:55:39 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\framework-4.0.4\app\Views\comentarios.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 14, Array)
+#1 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('comentarios', Array, true)
+#3 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(162): view('comentarios')
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->n1V()
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#6 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-06 19:57:13 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\framework-4.0.4\app\Views\comentarios.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 14, Array)
+#1 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('comentarios', Array, true)
+#3 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(166): view('comentarios')
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->n2V()
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#6 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-06 19:58:08 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\framework-4.0.4\app\Views\comentarios.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 14, Array)
+#1 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('comentarios', Array, true)
+#3 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(162): view('comentarios')
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->n1V()
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#6 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-06 20:00:09 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\framework-4.0.4\app\Views\comentarios.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 14, Array)
+#1 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('comentarios', Array, true)
+#3 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(162): view('comentarios')
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->n1V()
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#6 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-06 21:23:54 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\framework-4.0.4\app\Views\vercomentarios.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 1, Array)
+#1 C:\xampp\htdocs\framework-4.0.4\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('vercomentarios', Array, true)
+#3 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(166): view('vercomentarios')
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->ver()
+#5 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#6 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-06 21:25:31 --> syntax error, unexpected end of file
+#0 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('vercomentarios', Array, true)
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(166): view('vercomentarios', Array)
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->ver()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-06 22:12:32 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('vercomentarios', Array, true)
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(183): view('vercomentarios', Array)
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->ver()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-06 22:12:36 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('vercomentarios', Array, true)
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(183): view('vercomentarios', Array)
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->ver()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-06 22:14:55 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('vercomentarios', Array, true)
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(173): view('vercomentarios', Array)
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->ver()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-06 22:14:57 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('vercomentarios', Array, true)
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(173): view('vercomentarios', Array)
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->ver()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-06 22:14:57 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Common.php(1119): CodeIgniter\View\View->render('vercomentarios', Array, true)
+#1 C:\xampp\htdocs\framework-4.0.4\app\Controllers\proyecto.php(173): view('vercomentarios', Array)
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->ver()
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#4 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-06 22:17:54 --> Class 'App\Controllers\comentariosModel' not found
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->eliminar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-06 22:18:28 --> Class 'App\Controllers\comentariosModel' not found
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->eliminar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-06 22:18:57 --> Class 'App\Controllers\comentariosModel' not found
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->eliminar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-06 22:19:12 --> Class 'App\Controllers\comentariosModel' not found
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->eliminar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-06 22:19:13 --> Class 'App\Controllers\comentariosModel' not found
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->eliminar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-06 22:19:13 --> Class 'App\Controllers\comentariosModel' not found
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->eliminar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-06 22:19:13 --> Class 'App\Controllers\comentariosModel' not found
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->eliminar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-06 22:19:13 --> Class 'App\Controllers\comentariosModel' not found
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->eliminar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-06 22:19:16 --> Class 'App\Controllers\comentariosModel' not found
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->eliminar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-06 22:19:46 --> Class 'App\Controllers\comentariosModel' not found
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->eliminar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-06 22:19:47 --> Class 'App\Controllers\comentariosModel' not found
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\Proyecto->eliminar()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Proyecto))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-06 22:28:04 --> syntax error, unexpected '=', expecting ')'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/elimin...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/elimin...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 22:28:04 --> syntax error, unexpected '=', expecting ')'
+#0 C:\xampp\htdocs\framework-4.0.4\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Proyecto/elimin...')
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Proyecto/elimin...')
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-06 22:52:05 --> Class 'App\Controllers\comentarioModel' not found
+#0 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(918): App\Controllers\ProyectoA->ver()
+#1 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProyectoA))
+#2 C:\xampp\htdocs\framework-4.0.4\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\framework-4.0.4\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
